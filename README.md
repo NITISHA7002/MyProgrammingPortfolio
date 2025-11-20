@@ -2,7 +2,5 @@
 THIS IS OUR FIRST GITHUB REPOSITORY.
 <br>
 AUTHOR-NITISHA
-<br>
-      -NITIN
-<br>      
+<br>-NITIN<br>      
       -NISHANT
